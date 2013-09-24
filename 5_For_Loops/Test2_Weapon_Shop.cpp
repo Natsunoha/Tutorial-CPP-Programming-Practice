@@ -1,37 +1,8 @@
 /*
- * Game Programming: Prerequisite Tests
- * Assignment 4, Test 2
-
-Create a weapon shop.
-Give the player 500 money.
-Create two arrays that correspond with each other*
-The arrays are: Item Name and Item Price.
-The array is a fixed size: 10. This is the most the user can carry. At the beginning, it's empty, the player has nothing.
-
-First, create a loop that keeps running until the player chooses "quit" from the menu.
-
-Display a menu:
-
-    Buy
-    Sell
-    Quit
-
-Get the user's input. If the user's input is not 1, 2, or 3, then loop through the list infinitely until they finally enter something valid.
-
-If they choose buy, display a list of items for sale.
-When they choose an item, check to make sure they have enough money.
-If they have enough money, subtract it from their purse and add the item name and item price to their inventory arrays.
-If they don't have enough money, tell them they don't and go back to the main menu.
-
-If they choose sell, then display the list of their items and item prices.
-If they select an item, add the amount of money to their purse. Remove the item from the Name and Price arrays. This might require re-ordering your array.
-
- *
- * I had intended for these assignments to only include concepts from this assignment
- * and all previous, but not future ones (ie, not classes in the "Conditional Statements" test)
- *
- * Rachel J. Morris, 2012
- * http://www.moosader.com/resources/tutorials/game-programming-prerequisite-test/1
+ * C++ Programming Practice
+ * Repo: https://github.com/Moosader/Tutorial-CPP-Programming-Practice
+ * Webpage: http://www.moosader.com/
+ * Rachel J. Morris
  * */
 
 #include <iostream>
