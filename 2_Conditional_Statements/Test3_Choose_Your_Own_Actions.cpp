@@ -1,19 +1,8 @@
 /*
- * Game Programming: Prerequisite Tests
- * Assignment 2, Test 3
- 
-Create a short "Choose your own Action" game.
-
-Start at the beginning of the story, ask the user what they want to do, and then branch from there and print the next portion of the story. Have at least three "steps" (three times the user gets to choose what to do).
-
-Not all branches need a depth of 3.
-
- * 
- * I had intended for these assignments to only include concepts from this assignment
- * and all previous, but not future ones (ie, not classes in the "Conditional Statements" test)
- * 
- * Rachel J. Morris, 2012
- * http://www.moosader.com/resources/tutorials/game-programming-prerequisite-test/1
+ * C++ Programming Practice
+ * Repo: https://github.com/Moosader/Tutorial-CPP-Programming-Practice
+ * Webpage: http://www.moosader.com/
+ * Rachel J. Morris
  * */
 
 #include <iostream>

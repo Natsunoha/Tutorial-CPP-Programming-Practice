@@ -1,22 +1,10 @@
 /*
- * Game Programming: Prerequisite Tests
- * Assignment 2, Test 1
- 
- Write a program that asks the user for their birth-year. From that, it approximates their age by comparing it to the current year.
-
-    If the user is older than 21, then print a statement that you give them a beer.
-    If they're younger than 21 but equal then or older than 18, then print a statement about how they can vote or enter the military.
-    If they're younger than 18 but equal to or older than 16, then print a statement about how they can drive now.
-    If they're under 16, then print that they don't get any perks... besides, y'know, being a kid.
- * 
- * I had intended for these assignments to only include concepts from this assignment
- * and all previous, but not future ones (ie, not classes in the "Conditional Statements" test)
- * 
- * Rachel J. Morris, 2012
- * http://www.moosader.com/resources/tutorials/game-programming-prerequisite-test/1
+ * C++ Programming Practice
+ * Repo: https://github.com/Moosader/Tutorial-CPP-Programming-Practice
+ * Webpage: http://www.moosader.com/
+ * Rachel J. Morris
  * */
 
-#include <iostream>
 using namespace std;
 
 int main()

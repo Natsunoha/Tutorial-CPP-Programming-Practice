@@ -1,23 +1,8 @@
 /*
- * Game Programming: Prerequisite Tests
- * Assignment 2, Test 2
- 
-Write a fraction math program. Have the user input:
-
-    Fraction 1's Numerator
-    Fraction 1's Denominator
-    Fraction 2's Numerator
-    Fraction 2's Denominator
-
-Then, ask them what kind of operation to do: Add, subtract, multiply, or divide.
-
-Use a conditional, and based on what operation they choose, do the appropriate math and print the answer.
- 
- * I had intended for these assignments to only include concepts from this assignment
- * and all previous, but not future ones (ie, not classes in the "Conditional Statements" test)
- * 
- * Rachel J. Morris, 2012
- * http://www.moosader.com/resources/tutorials/game-programming-prerequisite-test/1
+ * C++ Programming Practice
+ * Repo: https://github.com/Moosader/Tutorial-CPP-Programming-Practice
+ * Webpage: http://www.moosader.com/
+ * Rachel J. Morris
  * */
 
 #include <iostream>
