@@ -25,7 +25,7 @@ int main()
 	else if ( age >= 16 )
 		response = "Not quite an adult yet, but hey, you can drive a car!";
 	else
-		response = "You can drink, vote, or drive, but you should enjoy being a kid. ENJOY IT!!!";
+		response = "You can't drink, vote, or drive, but you should enjoy being a kid. ENJOY IT!!!";
 		
 	cout << response << endl;
 	
