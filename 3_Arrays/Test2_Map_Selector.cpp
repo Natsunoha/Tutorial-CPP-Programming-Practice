@@ -1,20 +1,8 @@
 /*
- * Game Programming: Prerequisite Tests
- * Assignment 3, Test 2
- 
-Create two arrays of strings: "Map Name" and "Map Description".
-
-Display a numbered list of each map index, and the corresponding Name.
-Have the user enter the index of the map they want to see.
-
-After the index is entered, output the description of the corresponding map.
-
- * 
- * I had intended for these assignments to only include concepts from this assignment
- * and all previous, but not future ones (ie, not classes in the "Conditional Statements" test)
- * 
- * Rachel J. Morris, 2012
- * http://www.moosader.com/resources/tutorials/game-programming-prerequisite-test/1
+ * C++ Programming Practice
+ * Repo: https://github.com/Moosader/Tutorial-CPP-Programming-Practice
+ * Webpage: http://www.moosader.com/
+ * Rachel J. Morris
  * */
 
 #include <iostream>

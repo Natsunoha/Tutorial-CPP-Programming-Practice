@@ -1,27 +1,8 @@
 /*
- * Game Programming: Prerequisite Tests
- * Assignment 3, Test 3
- 
-This is an extention of Test 2, but instead of having the user input the index, let them enter"
-
-    North
-    South
-    East
-    West
-
-Which will move the User to an adjacent map, if one exists.
-
-Since you will have a fixed width/height, you can navigate through the maps by using basic math to figure out a neighbor index:
-
-0 1 2
-3 4 5
-
- * 
- * I had intended for these assignments to only include concepts from this assignment
- * and all previous, but not future ones (ie, not classes in the "Conditional Statements" test)
- * 
- * Rachel J. Morris, 2012
- * http://www.moosader.com/resources/tutorials/game-programming-prerequisite-test/1
+ * C++ Programming Practice
+ * Repo: https://github.com/Moosader/Tutorial-CPP-Programming-Practice
+ * Webpage: http://www.moosader.com/
+ * Rachel J. Morris
  * */
 
 #include <iostream>

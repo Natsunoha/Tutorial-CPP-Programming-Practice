@@ -1,27 +1,8 @@
 /*
- * Game Programming: Prerequisite Tests
- * Assignment 3, Test 1
- 
-Write a program where it tells you that you get a party of 4 RPG characters (not letters :P). Characters will have:
-
-    A name (entered by user) - string
-    A class (chosen by user) - string
-    A Strength rating (calculated from class) - number
-
-For all 4 characters:
-
-    Get the character's name from the User.
-    Display a list of classes and have the User select a class.
-    Based on the class chosen, give this user an arbitrary Strength amount.
-
-After the user is done setting up the party, output every member's Name, Class, and Strength in a nice list.
-
- * 
- * I had intended for these assignments to only include concepts from this assignment
- * and all previous, but not future ones (ie, not classes in the "Conditional Statements" test)
- * 
- * Rachel J. Morris, 2012
- * http://www.moosader.com/resources/tutorials/game-programming-prerequisite-test/1
+ * C++ Programming Practice
+ * Repo: https://github.com/Moosader/Tutorial-CPP-Programming-Practice
+ * Webpage: http://www.moosader.com/
+ * Rachel J. Morris
  * */
 
 #include <iostream>
